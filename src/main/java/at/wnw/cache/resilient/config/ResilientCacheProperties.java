@@ -12,5 +12,5 @@ public class ResilientCacheProperties {
     private Duration defaultTtl = Duration.ofMinutes(5);
     private Map<String, Duration> ttls;
 
-    // getters & setters omitted for brevity
+    // getters & setters...
 }
